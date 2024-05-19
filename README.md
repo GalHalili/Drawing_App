@@ -1,1 +1,1 @@
-# Drawing_App
+# A windowed application that we built in C# as a final project. The application simulates a type of painter and allows several things: draw and move different shapes on the screen, freehand drawing, save the drawing you created on the computer and also load them and some other cool features.
